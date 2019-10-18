@@ -1,0 +1,32 @@
+namespace ChatTestClick
+{
+    public partial class FormSize : Form
+    {
+        public FormSize()
+        {
+            InitializeComponent();
+            MessageBox.Show(x + " " + y + "");
+        }
+        int w, h, x, y;
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            w = this.Size.Width;
+            h = this.Size.Height;
+            //x = w - 2;
+            y = h - 4;
+            this.Height = y; 
+            //this.Width = x;
+            if (y<=105)
+            {
+                //176, 105
+                this.Hide();
+            }
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+        }
+       
+    }
+}

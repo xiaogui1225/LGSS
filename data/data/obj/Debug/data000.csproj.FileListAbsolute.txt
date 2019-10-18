@@ -1,0 +1,9 @@
+D:\桌面\SSGL(宿舍管理系统)\data\data\bin\Debug\data.exe.config
+D:\桌面\SSGL(宿舍管理系统)\data\data\bin\Debug\data.exe
+D:\桌面\SSGL(宿舍管理系统)\data\data\bin\Debug\data.pdb
+D:\桌面\SSGL(宿舍管理系统)\data\data\obj\Debug\data.Form1.resources
+D:\桌面\SSGL(宿舍管理系统)\data\data\obj\Debug\data.Properties.Resources.resources
+D:\桌面\SSGL(宿舍管理系统)\data\data\obj\Debug\data000.csproj.GenerateResource.cache
+D:\桌面\SSGL(宿舍管理系统)\data\data\obj\Debug\data000.csproj.CoreCompileInputs.cache
+D:\桌面\SSGL(宿舍管理系统)\data\data\obj\Debug\data.exe
+D:\桌面\SSGL(宿舍管理系统)\data\data\obj\Debug\data.pdb

@@ -1,0 +1,15 @@
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Properties.Resources.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.csproj.GenerateResource.cache
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.csproj.CoreCompileInputs.cache
+D:\桌面\SSGL(宿舍管理系统)\SSGL\bin\Debug\SSGL.exe
+D:\桌面\SSGL(宿舍管理系统)\SSGL\bin\Debug\SSGL.pdb
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.exe
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.pdb
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Frm01_主界面.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Frm02_登录.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Frm03_修改信息.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Form1.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Form2.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Form3.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.Frm04_注销信息.resources
+D:\桌面\SSGL(宿舍管理系统)\SSGL\obj\x86\Debug\SSGL.csprojAssemblyReference.cache

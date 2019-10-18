@@ -1,0 +1,10 @@
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\bin\Debug\重开.exe
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\bin\Debug\重开.pdb
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.csprojAssemblyReference.cache
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.Form1.resources
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.Form2.resources
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.Properties.Resources.resources
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.csproj.GenerateResource.cache
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.csproj.CoreCompileInputs.cache
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.exe
+D:\桌面\SSGL(宿舍管理系统)\重开方法\重开\重开\obj\Debug\重开.pdb

@@ -1,0 +1,9 @@
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\bin\Debug\love.exe
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\bin\Debug\love.pdb
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.csprojAssemblyReference.cache
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.Form1.resources
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.Properties.Resources.resources
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.csproj.GenerateResource.cache
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.csproj.CoreCompileInputs.cache
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.exe
+D:\桌面\SSGL(宿舍管理系统)\love\love\love\obj\Debug\love.pdb

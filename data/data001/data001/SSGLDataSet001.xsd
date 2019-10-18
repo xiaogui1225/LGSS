@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SSGLDataSet001" targetNamespace="http://tempuri.org/SSGLDataSet001.xsd" xmlns:mstns="http://tempuri.org/SSGLDataSet001.xsd" xmlns="http://tempuri.org/SSGLDataSet001.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ssglConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ssglConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.data001.Properties.Settings.GlobalReference.Default.ssglConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="dormitoryTableAdapter" GeneratorDataComponentClassName="dormitoryTableAdapter" Name="dormitory" UserDataComponentName="dormitoryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ssglConnectionString (Settings)" DbObjectName="SSGL.dbo.dormitory" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT sDor, sName, sServerpa FROM dbo.dormitory</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="sDor" DataSetColumn="sDor" />
+              <Mapping SourceColumn="sName" DataSetColumn="sName" />
+              <Mapping SourceColumn="sServerpa" DataSetColumn="sServerpa" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SSGLDataSet001" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SSGLDataSet001" msprop:Generator_UserDSName="SSGLDataSet001">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dormitory" msprop:Generator_TableClassName="dormitoryDataTable" msprop:Generator_TableVarName="tabledormitory" msprop:Generator_TablePropName="dormitory" msprop:Generator_RowDeletingName="dormitoryRowDeleting" msprop:Generator_RowChangingName="dormitoryRowChanging" msprop:Generator_RowEvHandlerName="dormitoryRowChangeEventHandler" msprop:Generator_RowDeletedName="dormitoryRowDeleted" msprop:Generator_UserTableName="dormitory" msprop:Generator_RowChangedName="dormitoryRowChanged" msprop:Generator_RowEvArgName="dormitoryRowChangeEvent" msprop:Generator_RowClassName="dormitoryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sDor" msprop:Generator_ColumnVarNameInTable="columnsDor" msprop:Generator_ColumnPropNameInRow="sDor" msprop:Generator_ColumnPropNameInTable="sDorColumn" msprop:Generator_UserColumnName="sDor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sName" msprop:Generator_ColumnVarNameInTable="columnsName" msprop:Generator_ColumnPropNameInRow="sName" msprop:Generator_ColumnPropNameInTable="sNameColumn" msprop:Generator_UserColumnName="sName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sServerpa" msprop:Generator_ColumnVarNameInTable="columnsServerpa" msprop:Generator_ColumnPropNameInRow="sServerpa" msprop:Generator_ColumnPropNameInTable="sServerpaColumn" msprop:Generator_UserColumnName="sServerpa" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
