@@ -1,0 +1,13 @@
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\bin\Debug\学生宿舍管理系统更新版.exe
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\bin\Debug\学生宿舍管理系统更新版.pdb
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\学生宿舍管理系统更新版.Form1.resources
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\学生宿舍管理系统更新版.Properties.Resources.resources
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\学生宿舍管理系统更新版.exe
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\学生宿舍管理系统更新版.pdb
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\bin\Debug\Database1.mdf
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\bin\Debug\Database1_log.ldf
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\学生宿舍管理系统更新版.Form2.resources
+D:\文档\更新版\学生宿舍管理系统更新版\学生宿舍管理系统更新版\obj\x86\Debug\学生宿舍管理系统更新版.Frm主界面.resources
